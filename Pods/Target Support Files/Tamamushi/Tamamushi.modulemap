@@ -1,0 +1,6 @@
+framework module Tamamushi {
+  umbrella header "Tamamushi-umbrella.h"
+
+  export *
+  module * { export * }
+}
